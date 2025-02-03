@@ -48,3 +48,5 @@ Some possible improvements for this project are:
 Adding more sensors to detect other parameters such as airbag deployment, seat belt status, etc.
 Adding a voice call feature to communicate with the driver or emergency services.
 Adding a web server or an app to display and store the crash data.
+
+![image alt](https://github.com/venudhar123/Road-accident-detection-using-gsm-gps-and-pi-pico/blob/40c5b5417ecb747435bae562a9498b583398db26/demo_image.jpeg)
